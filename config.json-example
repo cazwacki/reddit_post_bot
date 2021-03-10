@@ -1,0 +1,7 @@
+{
+    "client_id": "<client id here>",
+    "client_secret": "<client secret here>",
+    "password": "<account password here>",
+    "username": "<account username here>",
+    "user_agent": "<platform>:<app ID>:<version string> (by u/<reddit username>)"
+}
